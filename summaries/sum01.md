@@ -2,7 +2,7 @@
 
 ## Домашнее задание
 1. Прочитать и сделать [лабораторную 1](http://cs.mipt.ru/algo/lessons/lab1.html). Ссылки на онлайн-доступ к `bash` указаны в разделе Полезное;
-2. Заполнить [гугл форму]() максимально честно.
+2. Заполнить [гугл форму](https://docs.google.com/forms/d/e/1FAIpQLSemyS-490OJ742tSZa9qpytlpYkvnCBDeX7hUcjft9CcnLiwQ/viewform?usp=sf_link) максимально честно.
 
 ## Полезное
 - SafeEyes или аналоги - напоминает о коротких перерывах с заданиями;
