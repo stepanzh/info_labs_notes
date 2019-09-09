@@ -61,7 +61,7 @@ IDE существует великое множество, отличаются
 
 Зайдите в интерактивный режим и исполните код:
 ```python
-import this
+>>> import this
 ```
 
 Почитайте PEP 8 -- Style Guide for Python Code: [оригинал](https://www.python.org/dev/peps/pep-0008/), [перевод](https://pep8.ru/doc/pep8/).
